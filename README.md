@@ -1,2 +1,2 @@
 # study-labs
-A repo for experiments, labs, notes, etc.
+A repo for experiments, labs, notes, etc
